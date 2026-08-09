@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://srinu-portfolio-2026.netlify.app/sitemap.xml
